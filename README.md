@@ -30,7 +30,7 @@ encoder    | 01  -20dB  V=off |   encoder
 ### hardware:
 - 2x rotary encoder with pushbutton
 - 1x LCD1602 i2c
-- MCU = ATmega328 (arduino nano / uno / micro) 
+- MCU = ATmega328 (arduino nano / uno / ProMini) 
 
 ### Pins:
 -  0 midi transmit
